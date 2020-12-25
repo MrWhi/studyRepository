@@ -1,2 +1,6 @@
-# studyRepository
-For study and practice
+#include <studio.h>
+
+int main(void)
+{
+  return 0;
+}
